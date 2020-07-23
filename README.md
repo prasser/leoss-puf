@@ -1,4 +1,4 @@
-# Anonymization pipeline for the LEOSS public use file
+# Anonymization pipeline for the LEOSS Public Use File
 
 This process has been designed for continuous publishing of the LEOSS dataset. It must be called using the following conventions:
 
